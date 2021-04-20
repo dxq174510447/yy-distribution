@@ -1,0 +1,2 @@
+org.springframework.boot.SpringApplicationRunListener=\
+cloud.ecosphere.yy.distribution.frontend.data.listener.starter.NodeSyn
